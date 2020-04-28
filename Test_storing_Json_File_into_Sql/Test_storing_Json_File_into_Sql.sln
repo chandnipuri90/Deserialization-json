@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_storing_Json_File_into_Sql", "Test_storing_Json_File_into_Sql\Test_storing_Json_File_into_Sql.csproj", "{FC77BC0B-AB4C-435C-895D-D53EEB4CBFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC77BC0B-AB4C-435C-895D-D53EEB4CBFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC77BC0B-AB4C-435C-895D-D53EEB4CBFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC77BC0B-AB4C-435C-895D-D53EEB4CBFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC77BC0B-AB4C-435C-895D-D53EEB4CBFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BCD90FD-1B7C-4F5A-ADF3-8BD51F0EA014}
+	EndGlobalSection
+EndGlobal
